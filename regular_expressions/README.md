@@ -1,1 +1,1 @@
-Reagular expressions code that returns SchoolSchool
+Practice for regular expressions
